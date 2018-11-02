@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
+Created on Wed Oct 24 8:04:01 2018
 
-This is a temporary script file.
+@author: OpenSource
 """
 
 #Import the necessary methods from tweepy library
